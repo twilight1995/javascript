@@ -8,4 +8,4 @@ linechart外部引用
 ## histogram
 画出直方图
 ## coon
-链接mysql并导入数据
+链接mysql并导入数据,引用了外部的库cpLibrary
