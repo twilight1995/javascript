@@ -4,3 +4,5 @@
 随机生成100000个随机数，画出折线图
 ## canvasjs.min.js
 linechart外部引用
+## histogram
+画出直方图
